@@ -1,5 +1,6 @@
 # windows-dev-list
-> List of resources for setting up a Windows machine for development
+
+> Basics for Professional Software Development - a list of resources for setting up a Windows machine for development
 
 ## Links
 
