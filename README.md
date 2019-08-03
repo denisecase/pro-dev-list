@@ -1,13 +1,13 @@
 # windows-dev-list
 
-> Basics for Professional Software Development - a list of resources for setting up a Windows machine for development
+> Basics for professional software development (guides for setting up a Windows machine) 
 
 ## Links
 
 - [Hosted Page](https://profcase.github.io/windows-dev-list/)
 - [Source](https://github.com/profcase/windows-dev-list)
 
-## Resources
+## Guides
 
 - [Windows Setup for Developers](https://github.com/denisecase/windows-setup)
 - [Windows File Management with PowerShell](https://github.com/denisecase/windows-file-management)
