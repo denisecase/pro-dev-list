@@ -1,0 +1,24 @@
+# node and npm 
+node_modules/
+
+# config
+config.json
+/.vs
+
+# Visual Studio Code
+.vscode/*
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+Session.vim
+.netrwhist
+*~
+
+# OSX
+.DS_Store
+
