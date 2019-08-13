@@ -22,3 +22,4 @@
 
 - [First Contributions](https://github.com/firstcontributions/first-contributions) - Learn how to contribute to open source projects
 - [List of web apps](https://profcase.github.io/web-apps-list/) - try some web development
+- [PowerShell Script to Clone Repos](https://gist.github.com/denisecase/aedafa943947ad2a9f0ffc4318a514d5)
