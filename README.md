@@ -1,18 +1,18 @@
-# Windows Developer List: Guides to get Windows 10 ready for Software Development
+# Guides to Getting Set Up for Professional Software Development
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](code-of-conduct.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-> A short list of guides to get your Windows machine ready for professional software development
+> A short list of guides to get your machine ready for professional software development
 
 ## Links
 
 - [Hosted Page](https://profcase.github.io/windows-dev-list/)
 - [Source](https://github.com/profcase/windows-dev-list)
 
-## Guides
+## Setting Up for Windows Users
 
-In order: 
+In order:
 
 1. [Windows Setup for Developers](https://github.com/denisecase/windows-setup)
 1. [Windows File Management with PowerShell](https://github.com/denisecase/windows-file-management)
@@ -20,12 +20,12 @@ In order:
 1. [Getting started with Git on Windows](https://github.com/denisecase/git-started-windows)
 1. [Windows Daily Software Upgrade (Automated!)](https://github.com/denisecase/windows-daily-software-upgrade)
 
+## Setting Up for Mac Users
+
+- See [Software Development for macOS Users](software-development-for-macOS-users.md)
+
 ## See also
 
 - [First Contributions](https://github.com/firstcontributions/first-contributions) - Learn how to contribute to open source projects
 - [List of web apps](https://profcase.github.io/web-apps-list/) - try some web development
-- [PowerShell Script to Clone Repos](https://gist.github.com/denisecase/aedafa943947ad2a9f0ffc4318a514d5)
-
-## Setting up a Different Operating System?
-
-- See [Software Development for macOS Users](software-development-for-macOS-users.md)
+- [PowerShell Script to Clone These Repos](https://gist.github.com/denisecase/aedafa943947ad2a9f0ffc4318a514d5)
