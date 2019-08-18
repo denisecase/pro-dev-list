@@ -7,5 +7,5 @@ Check out some of these:
 - [devSwag](https://devswag.io/)
 - [GitHub Student Developer Pack](https://education.github.com/pack)
 - [Heroku is for Students](https://www.heroku.com/students)
-- [Microsoft Imagine | Free Tools & Resources for Students](https://www.microsoft.com/en-cy/imagine)
+- [Microsoft Imagine - Free Tools & Resources for Students](https://www.microsoft.com/en-cy/imagine)
 - [Microsoft Visual Studio Dev Essentials](https://visualstudio.microsoft.com/dev-essentials/)
