@@ -12,6 +12,8 @@
 
 ## Guides
 
+In order: 
+
 1. [Windows Setup for Developers](https://github.com/denisecase/windows-setup)
 1. [Windows File Management with PowerShell](https://github.com/denisecase/windows-file-management)
 1. [Basic Tools for Web Development](https://github.com/denisecase/basic-tools-for-webdev)
@@ -23,3 +25,7 @@
 - [First Contributions](https://github.com/firstcontributions/first-contributions) - Learn how to contribute to open source projects
 - [List of web apps](https://profcase.github.io/web-apps-list/) - try some web development
 - [PowerShell Script to Clone Repos](https://gist.github.com/denisecase/aedafa943947ad2a9f0ffc4318a514d5)
+
+## Setting up a Different Operating System?
+
+- See [Software Development for macOS Users](software-development-for-macOS-users.md)
