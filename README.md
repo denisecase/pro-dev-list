@@ -22,7 +22,7 @@ In order:
 
 ## Setting Up for Mac Users
 
-- See [Software Development for macOS Users](software-development-for-macOS-users.md)
+- See [Software Development for macOS Users](https://denisecase.github.io/pro-dev-list/software-development-for-macOS-users.html)
 
 ## See also
 
