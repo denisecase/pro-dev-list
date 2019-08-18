@@ -7,8 +7,8 @@
 
 ## Links
 
-- [Hosted Page](https://profcase.github.io/pro-dev-list/)
-- [Source](https://github.com/profcase/pro-dev-list)
+- [Hosted Page](https://denisecase.github.io/pro-dev-list/)
+- [Source](https://github.com/denisecase/pro-dev-list)
 
 ## Setting Up for Windows Users
 
